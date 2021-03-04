@@ -72,15 +72,6 @@
         "[resourceId('Microsoft.Web/sites', variables('webAppName'))]"
       ],
       "properties": {
-        //"networkAcls": {
-        //  "defaultAction": "Deny",
-        //  "ipRules": [
-        //    {
-        //      "value": "[reference(resourceId('Microsoft.Web/sites', variables('webAppName')), '2019-06-01').OutboundIpAddresses]",
-        //      "action": "Allow"
-        //    }
-        ////  ]
-        //}
       },
       "resources": [
         {
@@ -156,10 +147,4 @@
     }
     // ------------------------------------------------------------------------------------------------
   ]
-  //"outputs": {
-  //  "ips": {
-  //    "value": "[reference('GetWebAppOutboundIpAddresses').outputs.ips]",
-  //    "type": "array"
-  //  }
-  //}
 }
