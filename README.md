@@ -6,5 +6,6 @@ ARM Template for deploying lab for AppService Config Specialist Certification - 
 
 ## This arm deployment will:
 
-1. Create an App Service and App Service Plan
-2. Create a	Azure Storage Account and Blob container
+1. Create a User Assigned Identity and Role Assigment
+2. Create an App Service and App Service Plan
+3. Create an Azure Storage Account and Blob container
