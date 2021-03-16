@@ -4,7 +4,7 @@ ARM Template for deploying lab for AppService Config Specialist Certification - 
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Famymcel%2FAppService.Config.Specialist.Vnet.2%2Fmain%2Fazuredeploy.json)
 
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)]
-(https://raw.githubusercontent.com/amymcel/AppService.Config.Specialist.Backup.1/main/DeployBackup1.ps1)
+https%3A%2F%2Fraw.githubusercontent.com%2Famymcel%2FAppService.Config.Specialist.Backup.1%2Fmain/DeployBackup1.ps1
 
 ## This arm deployment will:
 
