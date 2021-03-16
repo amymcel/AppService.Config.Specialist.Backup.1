@@ -2,7 +2,7 @@
 ARM Template for deploying lab for AppService Config Specialist Certification - Backup Lab #1
 
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)]
-https://raw.githubusercontent.com/amymcel/AppService.Config.Specialist.Backup.1/main/DeployBackup1.ps1
+(https://raw.githubusercontent.com/amymcel/AppService.Config.Specialist.Backup.1/main/DeployBackup1.ps1)
 
 ## This arm deployment will:
 
