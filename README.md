@@ -1,6 +1,9 @@
 # AppService.Specialist.Config.Backup.1
 ARM Template for deploying lab for AppService Config Specialist Certification - Backup Lab #1
 
+Please be sure you have installed the PowerShell Az modue prior to running this script.
+Reference: https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-6.2.1
+
 ## Steps to Deploy:
 1. Download the PS1 file to your local computer by selecting link below. After file is displayed click ctrl-S to save the file locally.
 4. Open your PowerShell console on your computer.
