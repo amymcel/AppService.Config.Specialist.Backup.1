@@ -2,6 +2,7 @@
 ARM Template for deploying lab for AppService Config Specialist Certification - Backup Lab #1
 
 Please be sure you have installed the PowerShell Az modue prior to running this script.
+
 Reference: https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-6.2.1
 
 ## Steps to Deploy:
